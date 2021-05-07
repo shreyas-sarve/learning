@@ -1,3 +1,4 @@
 # learning
-This repo is just my start to learn git
+This repo is for programming...
+
 
